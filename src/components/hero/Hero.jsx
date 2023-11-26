@@ -62,6 +62,10 @@ const Hero = () => {
             animate="scrollButton"
             src="/scroll.png"
             alt=""
+            style={{
+              width: "auto",
+              height:"auto"
+            }}
           />
         </motion.div>
       </div>
