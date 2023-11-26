@@ -97,7 +97,7 @@ const Services = () => {
           <p>
             {item.item_description}
           </p>
-          <a href={item.item_link} target="_blank"><button>Go</button></a>
+          <a href={item.item_link} target="_blank"><button>View Service</button></a>
         </motion.div>
         ))
           
