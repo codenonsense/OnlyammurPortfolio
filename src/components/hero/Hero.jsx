@@ -57,7 +57,7 @@ const Hero = () => {
             </motion.button>
             <motion.button variants={textVariants} >Contact Me</motion.button>
           </motion.div>
-          <motion.img
+{/*           <motion.img
             variants={textVariants}
             animate="scrollButton"
             src="/scroll.png"
@@ -66,7 +66,7 @@ const Hero = () => {
               width: "auto",
               height:"auto"
             }}
-          />
+          /> */}
         </motion.div>
       </div>
       <motion.div
